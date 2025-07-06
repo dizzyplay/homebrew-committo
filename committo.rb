@@ -1,8 +1,8 @@
 class Committo < Formula
   desc "Commit message generator"
   homepage "https://github.com/dizzyplay/committo"
-  url "https://github.com/dizzyplay/committo/releases/download/v0.0.11/committo-v0.0.11-macos.tar.gz"
-  sha256 "b8d21215d3da64b93e6a602ea8e0df3b1655006931a834f667a7b6acf03fd288"
+  url "https://github.com/dizzyplay/committo/releases/download/v0.1.0/committo-v0.1.0-macos.tar.gz"
+  sha256 "24b6bf096fc6e5e5b21b5b54096f61cf8b727efecd25ec7e5f10ea5db1b4cd22"
 
   def install
     bin.install "committo"
